@@ -1,6 +1,8 @@
 # gorillasay
 This is `gorillasay` inspire by `cowsay`.
 
+![](https://imgur.com/Zpwb5uj.png)
+
 ## Installtion
 ```sh
 $ git clone https://github.com/skanehira/gorillasay
