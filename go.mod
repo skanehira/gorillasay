@@ -1,4 +1,4 @@
-module github.com/skanehira/gorillsay
+module github.com/skanehira/gorillasay
 
 go 1.13
 
